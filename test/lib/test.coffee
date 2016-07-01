@@ -65,7 +65,7 @@ tests =
     { date: dates.lastTomorrow, result: false, description: 'last millisecond of tomorrow' }
   ]
 
-describe 'test dater', ->
+describe 'test', ->
 
   for name, array of tests
 
