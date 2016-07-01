@@ -4,6 +4,7 @@
   "description": "Compare dates to today",
   "main": "lib",
   "keywords": [
+    "dates",
     "date",
     "compare",
     "today"
